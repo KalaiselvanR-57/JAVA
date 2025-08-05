@@ -4,7 +4,7 @@ public class Rseq {
         Scanner sc = new Scanner(System.in);
         String n = sc.nextLine();
         System.out.print(n);       
-
+        sc.close();
     }
     public static void main(String[] args) {
         

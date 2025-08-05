@@ -15,4 +15,5 @@ public class array {
         System.out.println(sum);
             avg=sum/5;
         System.out.print(avg);
+        s.close();
     }}

@@ -1,4 +1,4 @@
-import java.util.* ;
+import java.util.Scanner;
 public class Sample {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
@@ -16,4 +16,5 @@ public class Sample {
         for(i=0;i<x;i++) {
             System.out.println(a[i][i]+" ");
         }
+        s.close();
     }}

@@ -1,4 +1,4 @@
-import java.util.*;
+//import java.util.*;
 public class Inherintance {
     static class dad{
         static int salary=10000;

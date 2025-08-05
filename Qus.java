@@ -12,5 +12,6 @@ public class Qus {
         a=b;
         b=sum;
     }
-        }
+        s.close();
+    }
 }

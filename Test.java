@@ -18,5 +18,7 @@ public class Test {
             for (int j=0;j<z;j++) {
                 System.out.print(a[i][j]+" ");
             }System.out.println();
+            
             }
+            s.close();
 }}

@@ -18,5 +18,6 @@ public class Main {
         else {
             System.out.println("you are not eligible");
         }
+        s.close();
     }
 }

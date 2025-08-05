@@ -37,5 +37,6 @@ public class Multi {
                 }
             }
         }
+        s.close();
     }
 }

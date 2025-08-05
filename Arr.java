@@ -25,5 +25,6 @@ public class Arr {
             tsum+=sum;
     }
 
-        System.out.println(tsum);
+        System.out.println(tsum);       
+        s.close();
 }}
